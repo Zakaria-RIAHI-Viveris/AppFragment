@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AppFragment</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="transactions">Transactions</string>
+    <string name="settings">Settings</string>
+    <string name="john_doe">John Doe</string>
+    <string name="home">Home</string>
+    <string name="solde_du_compte">Solde du compte</string>
+    <string name="credit">Crédit (%1$d)</string>
+    <string name="debit">Débit (%1$d)</string>
+    <string name="valeur_solde">1220€</string>
+</resources>
